@@ -6,7 +6,7 @@
         android:bottomRightRadius="100dp"
         />
     <solid
-        android:color="#FFAAAA"
+        android:color="#FFFFFF"
         />
     <padding
         android:left="0dp"
@@ -20,6 +20,6 @@
         />
     <stroke
         android:width="2dp"
-        android:color="#D46A6A"
+        android:color="@color/colorPrimary"
         />
 </shape>
